@@ -10,7 +10,7 @@
         "gif": true
     },
     "url_prefix": "https://www.example.com/stickers",
-    "save_path": "/var/www/html/stickers/",
+    "save_path": "./output/",
     "restriction": false,
     "uid": [
         ""
