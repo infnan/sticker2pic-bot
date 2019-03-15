@@ -7,6 +7,6 @@
         "telegraf": "^3.19.0"
     },
     "scripts": {
-        "start": "node main.js"
+        "start": "npm install && node main.js"
     }
 }
