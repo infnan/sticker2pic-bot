@@ -1,0 +1,12 @@
+{
+    "name": "sticker2pic-bot",
+    "dependencies": {
+        "cwebp": "^2.0.2",
+        "gm": "^1.23.1",
+        "request": "^2.85.0",
+        "telegraf": "^3.19.0"
+    },
+    "scripts": {
+        "start": "node main.js"
+    }
+}
